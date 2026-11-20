@@ -1,0 +1,12 @@
+# ความลับ ห้าม commit เด็ดขาด
+credentials.json
+*credentials*.json
+.env
+
+# ข้อมูลและไฟล์ที่สร้างขึ้น
+data/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
